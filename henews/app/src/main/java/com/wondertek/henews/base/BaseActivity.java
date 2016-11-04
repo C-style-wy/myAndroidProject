@@ -1,4 +1,4 @@
-package com.wondertek.henews;
+package com.wondertek.henews.base;
 
 import android.app.Activity;
 import android.os.Bundle;

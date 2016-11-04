@@ -1,10 +1,12 @@
-package com.wondertek.henews;
+package com.wondertek.henews.activity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.wondertek.henews.R;
 import com.wondertek.henews.activity.home.TabBarActivity;
+import com.wondertek.henews.base.BaseActivity;
 
 public class MainActivity extends BaseActivity {
 
